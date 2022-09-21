@@ -13,12 +13,9 @@ The project was created with Python 3.9.0.
 The following files has the following functions:
 
 1.  openCmd.bat creates and activate virtual environment in folder env38.
-2. 'Kalman Filters.py' implments and visualize an estimation from the kalman filter for a sinusodial signal. The intial and structural parameters of the filter and the signal can be modified.
-by the user of the code. 
-3. 'Particle Filters.py' implments and visualize an estimation from the particle filter for  a sinusodial signal. The intial and structural parameters of the filter and the signal can be modified.
-by the user of the code. 
-4. 'Parameter Estimation.py' visualize a normal Distribution with arbitrary mean and variance, such that parameter estimation methods (e.g maximum liklihood) can be tested to determine
-             the parameters of the distribution.
+2. 'Kalman Filters.py' implments and visualize an estimation from the kalman filter for a sinusodial signal. The intial and structural parameters of the filter and the signal can be modified by user. 
+3. 'Particle Filters.py' implments and visualize an estimation from the particle filter for  a sinusodial signal. The intial and structural parameters of the filter and the signal can be modified by user. 
+4. 'Parameter Estimation.py' visualize a normal Distribution with arbitrary mean and variance, such that parameter estimation methods (e.g maximum liklihood) can be tested to determine the parameters of the distribution.
 
 ## Project Motivation: <a name="motivation"></a>
 
